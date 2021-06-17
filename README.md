@@ -6,6 +6,7 @@ I am Interested in creating simple and innovative solutions for the most diverse
 
 - 💻 I’m currently working on personal projects to improve my Node.js skills
 - 📚 I'm currently learning front-end development with Angular
+- 🗂️ Check my MiniProfile: https://miniprofile.herokuapp.com/u/carlos
 
 ## 🔧 Tech I use
 
