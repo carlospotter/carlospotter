@@ -26,14 +26,23 @@ I am Interested in creating simple and innovative solutions for the most diverse
 
 ## 📈 My GitHub stats
 
-<a href="https://github.com/carlospotter/carlospotter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospotter&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
-</a>
-<a href="https://github.com/carlospotter/carlospotter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospotter&hide=jupyter%20notebook,html,cmake,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+ <div>
+  <a href="https://github.com/carlospotter">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlospotter&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospotter&hide=jupyter%20notebook,cmake,tex&layout=compact&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</div>
 
 <br />
 
 ## 👇 My personal projects:
 <br />
+  
+<div>
+<a href="https://github.com/carlospotter/MiniProfile">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospotter&repo=MiniProfile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/carlospotter/ita_navigation">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlospotter&repo=ita_navigation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<div>
