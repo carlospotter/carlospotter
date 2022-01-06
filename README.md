@@ -4,12 +4,13 @@ My name is Carlos Pötter, and I am a software developer with experience develop
 
 I am Interested in creating simple and innovative solutions for the most diverse types of problems and learning new concepts and technologies whenever needed.
 
-- 💻 I’m currently working on personal projects to improve my Node.js skills
-- 📚 I'm currently learning front-end development with Angular
+- 💻 I’m currently working with Go
+- 📚 I'm learning front-end development with Svelte
 - 🗂️ Check my MiniProfile: https://miniprofile.herokuapp.com/u/carlos
 
 ## 🔧 Tech I use
 
+<img align="left" alt="Go" width="35px" src="https://user-images.githubusercontent.com/43349953/148307706-66eb0fed-1130-4bd8-88d1-f1e745a6e575.png"/>
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt=".NET" width="35px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -17,9 +18,11 @@ I am Interested in creating simple and innovative solutions for the most diverse
 <img align="left" alt="Postgres" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="HTML" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/199px-Svelte_Logo.svg.png"/>
+<img align="left" alt="Angular" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
 
 <br />
 <br />
