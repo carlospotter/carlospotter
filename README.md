@@ -32,7 +32,7 @@ I am Interested in creating simple and innovative solutions for the most diverse
  <div>
   <a href="https://github.com/carlospotter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlospotter&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospotter&hide=jupyter%20notebook,cmake,tex&layout=compact&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospotter&hide=jupyter%20notebook,cmake,tex,html&layout=compact&langs_count=6&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </div>
 
 <br />
