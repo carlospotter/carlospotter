@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey guys! 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hey guys! 
 
 My name is Carlos Pötter, and I am a software developer with experience developing web applications and some robotics software, and passionate about new tech.
 
