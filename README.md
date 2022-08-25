@@ -6,7 +6,6 @@ I am Interested in creating simple and innovative solutions for the most diverse
 
 - 💻 I’m currently working with Go
 - 📚 I'm learning front-end development with Svelte
-- 🗂️ Check my MiniProfile: https://miniprofile.herokuapp.com/u/carlos
 
 ## 🔧 Tech I use
 
